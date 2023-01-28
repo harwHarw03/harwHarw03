@@ -24,5 +24,6 @@ Here are some ideas to get you started:
   <img align="mid" src= https://github-readme-stats.vercel.app/api/top-langs/?username=harwHarw03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact>
 </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harw_luthfi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luthfiharw) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harw_luthfi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luthfiharw) 
+[![](https://visitcount.itsvg.in/api?id=harwHarw03&icon=5&color=0)](https://visitcount.itsvg.in)
