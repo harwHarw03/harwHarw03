@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Hardware Programmer at Gamaforce UGM
 <a>
-<img align="left" src= https://github-readme-stats.vercel.app/api?username=harwHarw03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true>
+<img align="left" src= https://github-readme-stats.vercel.app/api?username=harwHarw03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true>
 </a>
 
 <a>
