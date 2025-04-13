@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harw_luthfi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luthfiharw) 
-[![](https://komarev.com/ghpvc/?harwHarw03)]
+![](https://komarev.com/ghpvc/?username=harwHarw03&color=green)
