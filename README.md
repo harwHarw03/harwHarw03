@@ -4,12 +4,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&multiline=true&repeat=false&width=435&height=60&lines=%E3%82%84%E3%81%82%EF%BC%81;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%E7%A7%81%E3%81%AE%E3%82%AE%E3%83%83%E3%83%88%E3%83%8F%E3%83%96%E3%81%B8%E2%98%95" alt="Typing SVG" /></a>  <br><br>
 
   <!-- About -->
-  <pre>💼 Embedded dev • System Engineer
-      🔧 Meta-programming fan • Compiled languages > interpreted
-      ⚡ Performance matters • Always optimizing
-      🎮 Anime • Code • Music • Reading
-      📧 Email: luthfiharw9@gmail.com
-    </pre>
+<pre>
+work      systems & infra
+prefs     compiled, terminal-first
+side      embedded, 3d cad, silicon
+</pre>
   
   <!-- Quote -->
   <div style="max-width: 800px; margin: 0 auto; text-align: center;">
