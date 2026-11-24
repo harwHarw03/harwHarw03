@@ -5,9 +5,8 @@
 
   <!-- About -->
 <pre>
-work      systems & infra
-prefs     compiled, terminal-first
-side      embedded, 3d cad, silicon
+I'm harw, based in Kumamoto, Japan.
+currently learning: semiconductor, quantum, and embedded hardware.
 </pre>
   
   <!-- Quote -->
